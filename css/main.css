@@ -1,0 +1,113 @@
+body{
+    font-family: Montserrat, sans-serif;
+    color: #090a0f;
+}
+
+.header{
+    background: url(../img/main.jpg) no-repeat center top;
+    background-size: 100%;
+    height: 2489px;
+}
+
+.main-bg img{
+    display:block;
+    width:100%;
+    height:100%;
+}
+.container{
+    width: 2500px;
+}
+
+ul, li {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+.main-bg{
+
+}
+.offer{
+    background: url(../img/fon.jpg) no-repeat center top;
+    background-size: 100%;
+}
+
+.offer-img{
+    margin-left: 150px;
+    height: 313px;
+    margin-right: 180px;
+}
+
+.offer-text{
+    font-size: 100px;
+    font-weight: bold;
+    margin-top: 60px;
+}
+
+.offer-text-small{
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.section{
+    margin-top: 140px;
+}
+
+.data28{
+    position: absolute;
+    height: 140px;
+}
+
+.people-one{
+    margin-left: 500px;
+    width: 700px;
+    margin-right: 50px;
+}
+
+.people-one-title-name{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.people-img{
+    height: 710px;
+}
+
+.people-one-lozung{
+    color: #cd0032;
+    font-size: 45px;
+    text-transform: uppercase;
+}
+
+.people-one-item-text{
+    font-size: 40px;
+    width: 680px;
+}
+
+.fas{
+    margin-top: 28px;
+    margin-right: 17px;
+}
+
+.people-one-item{
+    display: flex;
+
+}
+
+.footer{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.footer-text{
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 500px;
+    margin-right: 100px;
+    margin-top: 61px;
+}
+
+.footer-item-icon{
+    margin-left: 50px;
+    height: 200px;
+}
